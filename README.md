@@ -1,4 +1,2 @@
 
-## Desenvolvedor de software
-
-** alguma descrição massa **
+## work in progress
